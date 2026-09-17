@@ -1,0 +1,26 @@
+{
+  "chunk_size": 47185920,
+  "chunks": [
+    {
+      "name": "Dados_Estatisticos.csv.gz.part001",
+      "sha256": "81443df49a71db725ee6859e3e260487b1bc9488c85a2fc1a2be9bcce61e2a3f",
+      "size": 47185920
+    },
+    {
+      "name": "Dados_Estatisticos.csv.gz.part002",
+      "sha256": "299baac463d9f982db81fb34fd790e55bd232206961c95c6f3b0083d55f13449",
+      "size": 302130
+    }
+  ],
+  "compressed": {
+    "sha256": "4be9c734c2f9ee8d9fc94884ca451e9bca09f57600bda2988286d9eb6ffa42ea",
+    "size": 47488050
+  },
+  "dataset": "estatisticos",
+  "format_version": 1,
+  "original": {
+    "name": "Dados_Estatisticos.csv",
+    "sha256": "c615c0f8f3741fef914f32191ec37101887934d08d37ab23bb93f28ce40361bb",
+    "size": 358893852
+  }
+}

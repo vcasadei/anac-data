@@ -1,0 +1,76 @@
+{
+  "files": {
+    "aerodromos/AerodromosPublicos.csv": {
+      "atualizado_em": "2026-09-15",
+      "dataset": "aerodromos",
+      "delimiter": ";",
+      "downloaded_at": "2026-09-17T15:11:59+00:00",
+      "encoding": "latin-1",
+      "etag": "\"6aa8df38-18c80\"",
+      "header_line": 2,
+      "last_modified": "Tue, 15 Sep 2026 06:01:28 GMT",
+      "sha256": "05d9e6ec1fdd9065fad8b0e8ab83eb1488ccd524936f76e2e0efe9d0370e55a4",
+      "size": 101504,
+      "size_verified": true,
+      "source_url": "https://sistemas.anac.gov.br/dadosabertos/Aerodromos/Aer%C3%B3dromos%20P%C3%BAblicos/Lista%20de%20aer%C3%B3dromos%20p%C3%BAblicos/AerodromosPublicos.csv"
+    },
+    "estatisticos/Dados_Estatisticos.csv": {
+      "atualizado_em": "2026-09-17",
+      "dataset": "estatisticos",
+      "delimiter": ";",
+      "downloaded_at": "2026-09-17T16:38:13+00:00",
+      "encoding": "utf-8",
+      "etag": "\"6aab68a1-1564491c\"",
+      "header_line": 2,
+      "last_modified": "Thu, 17 Sep 2026 04:12:17 GMT",
+      "sha256": "c615c0f8f3741fef914f32191ec37101887934d08d37ab23bb93f28ce40361bb",
+      "size": 358893852,
+      "size_verified": true,
+      "source_url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Dados%20Estat%C3%ADsticos%20do%20Transporte%20A%C3%A9reo/Dados_Estatisticos.csv"
+    },
+    "vra/VRA_20265.csv": {
+      "atualizado_em": "2026-08-28",
+      "dataset": "vra",
+      "delimiter": ";",
+      "downloaded_at": "2026-09-17T15:11:55+00:00",
+      "encoding": "utf-8",
+      "etag": "\"6a913418-b1d83e\"",
+      "header_line": 2,
+      "last_modified": "Fri, 28 Aug 2026 07:09:12 GMT",
+      "sha256": "a9927560246e620633b9c7566a27f6974da2febe47271f79d22d7d6854fd1169",
+      "size": 11655230,
+      "size_verified": true,
+      "source_url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2026/05%20-%20Maio/VRA_20265.csv"
+    },
+    "vra/VRA_20266.csv": {
+      "atualizado_em": "2026-08-28",
+      "dataset": "vra",
+      "delimiter": ";",
+      "downloaded_at": "2026-09-17T15:11:43+00:00",
+      "encoding": "utf-8",
+      "etag": "\"6a913419-af6a97\"",
+      "header_line": 2,
+      "last_modified": "Fri, 28 Aug 2026 07:09:13 GMT",
+      "sha256": "686843d225da4f04e42f08e07a1f3fc9606176698c18b779920a46477be63bc9",
+      "size": 11496087,
+      "size_verified": true,
+      "source_url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2026/06%20-%20Junho/VRA_20266.csv"
+    },
+    "vra/VRA_20267.csv": {
+      "atualizado_em": "2026-08-28",
+      "dataset": "vra",
+      "delimiter": ";",
+      "downloaded_at": "2026-09-17T15:14:04+00:00",
+      "encoding": "utf-8",
+      "etag": "\"6a91341a-c1a9bc\"",
+      "header_line": 2,
+      "last_modified": "Fri, 28 Aug 2026 07:09:14 GMT",
+      "sha256": "2cd8ceb8be13dbc7644b17a492a966685c8e4dcb43d9e32c3e18695b7c86274d",
+      "size": 12691900,
+      "size_verified": true,
+      "source_url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2026/07%20-%20Julho/VRA_20267.csv"
+    }
+  },
+  "schema_version": 1,
+  "updated_at": "2026-09-17T16:38:13+00:00"
+}

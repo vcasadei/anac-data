@@ -1,0 +1,24 @@
+Atualizado em: 2026-09-15
+Código OACI;CIAD;Nome;Município;UF;Município Servido;UF Servido;LATGEOPOINT;LONGEOPOINT;Latitude;Longitude;Altitude;Operação Diurna;Operação Noturna;Situação;Validade do Registro;Portaria de Registro;Link Portaria
+SBRB;AC0001;Plácido de Castro;RIO BRANCO;Acre;Rio Branco;Acre;-9.8683333;-67.898056;09°52'06"S;067°53'53"W;193,0;VFR / IFR - CAT I;VFR / IFR - CAT I;Cadastrado;;;
+SWPI;AM0006;Parintins;PARINTINS;Amazonas;Parintins;Amazonas;-2.6736111;-56.7775;02°40'25"S;056°46'39"W;25,0;VFR;VFR;Cadastrado;;;
+SBMQ;AP0001;Alberto Alcolumbre;MACAPÁ;Amapá;Macapá;Amapá;0.050555556;-51.072222;00°03'02"N;051°04'20"W;17,0;VFR / IFR Não Precisão;VFR / IFR Não Precisão;Cadastrado;;;
+SBVC;BA0005;Glauber de Andrade Rocha;VITÓRIA DA CONQUISTA;Bahia;Vitória da Conquista;Bahia;-14.907778;-40.914722;14°54'28"S;040°54'53"W;894,0;VFR / IFR Não Precisão;VFR / IFR Não Precisão;Cadastrado;26/12/2027;PA2019-2438;https://pergamum.anac.gov.br/arquivos/PA2019-2438.pdf
+SBLE;BA0006;HORÁCIO DE MATTOS;LENÇÓIS;Bahia;Lençóis;Bahia;-12.482222;-41.276944;12°28'56"S;041°16'37"W;506,0;VFR;VFR;Cadastrado;;;
+SNVB;BA0008;Valença;VALENÇA;Bahia;Valença;Bahia;-13.296389;-38.9925;13°17'47"S;038°59'33"W;5,0;VFR;VFR;Cadastrado;20/11/2025;PA2015-3090;https://pergamum.anac.gov.br/arquivos/PA2015-3090.pdf
+SNGI;BA0009;Aeródromo de Guanambi;GUANAMBI;Bahia;Guanambi;Bahia;-14.208056;-42.746111;14°12'29"S;042°44'46"W;553,0;VFR;VFR;Cadastrado;08/07/2025;PA2015-1765;https://pergamum.anac.gov.br/arquivos/PA2015-1765.pdf
+SNTF;BA0016;Teixeira de Freitas;TEIXEIRA DE FREITAS;Bahia;Teixeira de Freitas;Bahia;-17.524444;-39.668333;17°31'28"S;039°40'06"W;105,0;VFR;VFR;Cadastrado;;;
+SNIC;BA0019;Irecê;IRECÊ;Bahia;Irecê;Bahia;-11.34;-41.846944;11°20'24"S;041°50'49"W;784,0;VFR;VFR;Cadastrado;20/05/2030;PA2020-1299;https://pergamum.anac.gov.br/arquivos/PA2020-1299.pdf
+SBFZ;CE0001;Pinto Martins;FORTALEZA;Ceará;Fortaleza;Ceará;-3.7758333;-38.532222;03°46'33"S;038°31'56"W;25,0;;;Cadastrado;;;
+SBAC;CE0004;Aeroporto Regional de Canoa Quebrada Dragão do Mar;ARACATI;Ceará;Aracati;Ceará;-4.5686111;-37.804722;04°34'07"S;037°48'17"W;36,0;;;Cadastrado;23/06/2024;PA2021-6019;https://pergamum.anac.gov.br/arquivos/PA2021-6019.pdf
+SBVT;ES0001;Eurico de Aguiar Salles;VITÓRIA;Espírito Santo;Vitória;Espírito Santo;-20.258056;-40.286389;20°15'29"S;040°17'11"W;3,0;VFR / IFR - CAT I;VFR / IFR - CAT I;Cadastrado;;;
+SNGA;ES0007;Guarapari;GUARAPARI;Espírito Santo;Guarapari;Espírito Santo;-20.646389;-40.491667;20°38'47"S;040°29'30"W;9,0;;;Interditado;06/11/2027;PA2017-3632;https://pergamum.anac.gov.br/arquivos/PA2017-3632.pdf
+SBSL;MA0001;MARECHAL CUNHA MACHADO;SÃO LUÍS;Maranhão;São Luís;Maranhão;-2.5869444;-44.236111;02°35'13"S;044°14'10"W;54,0;;;Cadastrado;;;
+SBSI;MT0002;Presidente João Batista Figueiredo;SINOP;Mato Grosso;Sinop;Mato Grosso;-11.885;-55.586111;11°53'06"S;055°35'10"W;374,0;;;Cadastrado;;;
+SBMA;PA0004;João Corrêa da Rocha;MARABÁ;Pará;Marabá;Pará;-5.3680556;-49.138056;05°22'05"S;049°08'17"W;109,0;;;Cadastrado;;;
+SNTS;PB0005;BRIGADEIRO FIRMINO AYRES;PATOS;Paraíba;Patos;Paraíba;-7.0377778;-37.2575;07°02'16"S;037°15'27"W;265,0;;;Cadastrado;;;
+SBIZ;MA0002;Prefeito Renato Moreira;;;Imperatriz;Maranhão;-5.5305556;-47.458333;05°31'50"S;047°27'30"W;132,0;VFR / IFR Não Precisão;VFR / IFR Não Precisão;Cadastrado;;PA2018-2252;https://pergamum.anac.gov.br/arquivos/PA2018-2252.pdf
+SBMK;MG0004;Mário Ribeiro;MONTES CLAROS;Minas Gerais;Montes Claros;Minas Gerais;-16.706111;-43.821944;16°42'22"S;043°49'19"W;668,0;;;Cadastrado;;PA2014-1719;https://pergamum.anac.gov.br/arquivos/PA2014-1719.pdf
+SBAX;MG0008;Romeu Zema;ARAXÁ;Minas Gerais;Araxá;Minas Gerais;-19.563056;-46.960556;19°33'47"S;046°57'38"W;998,0;VFR / IFR Não Precisão;VFR / IFR Não Precisão;Cadastrado;;;
+SNYU;MG0014;ITURAMA;ITURAMA;Minas Gerais;Iturama;Minas Gerais;-19.717222;-50.220278;19°43'02"S;050°13'13"W;475,0;VFR;VFR;Cadastrado;23/09/2030;PA2020-2411;https://pergamum.anac.gov.br/arquivos/PA2020-2411.pdf
+SBPC;MG0018;Embaixador Walther Moreira Salles;POÇOS DE CALDAS;Minas Gerais;Poços de Caldas;Minas Gerais;-21.84

@@ -1,0 +1,25 @@
+# The datasets are committed to this repository on purpose, so that a clone
+# carries the data with it. See README.md.
+#
+# One exception: a file larger than GitLab's per-file limit cannot be committed
+# as itself. Its committed form is the chunk set under data/dist/, and the
+# reassembled original below is a build product - rebuild it with
+# scripts/rebuild.sh or scripts/rebuild.ps1.
+#
+# Add one line per oversized dataset. `anac_data package` prints the exact line
+# to add if it packages a file that is not covered here.
+data/raw/anac/estatisticos/
+
+# In-progress downloads and atomic-write temporaries
+*.part
+*.tmp
+*.rebuilding
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local editor and agent tooling
+.claude/
