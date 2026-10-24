@@ -349,3 +349,7 @@ portal's own listing at run time. All portal paths live in one table in
 reorganised again.
 
 Consult ANAC for the licensing terms attached to the data itself.
+
+The code in this repository is released under the [MIT License](LICENSE); the
+data files are ANAC's and are covered by [DATA_NOTICE.md](DATA_NOTICE.md), not by
+the MIT License.
